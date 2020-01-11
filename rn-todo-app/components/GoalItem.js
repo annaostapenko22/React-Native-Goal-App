@@ -9,8 +9,7 @@ const GoalItem = (props) => {
 const styles = StyleSheet.create({
     listItem: {
         padding: 10,
-        backgroundColor: "pink",
-        borderWidth: 1,
+        backgroundColor: "rgba(123,104,238, 0.5)",
         marginVertical: 10
       }
 })
